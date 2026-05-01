@@ -117,8 +117,7 @@ The dataset includes:
 
 - Power BI file (.pbix)
 - Dashboard export (PDF)
-- Dataset (Excel)
-- Dashboard screenshots
+
 
 ---
 
@@ -130,13 +129,6 @@ The dataset includes:
 - Integration of ERP-generated data with BI tools
 
 ---
-
-## Future Improvements
-
-- Add retention and cohort analysis
-- Automate data pipeline
-- Use real-time data sources instead of static files
-- Expand time range for deeper trend analysis
 
 ---
 
